@@ -1,0 +1,7 @@
+# Config local de preview (no necesaria en el sitio publicado)
+.claude/
+
+# Archivos del SO
+.DS_Store
+Thumbs.db
+desktop.ini
